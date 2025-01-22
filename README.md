@@ -7,15 +7,22 @@
 ---
 
 ## 🌟 **About Me**  
+
 🎓 **BTech Student** | 💻 **Cybersecurity Enthusiast** | 🔐 **Aspiring Ethical Hacker**  
 
-- 🎓 **2nd-year BTech student** in **Computer Science and Engineering** at **Invertis University, Bareilly**.  
-- 🌱 Passionate about **programming**, **cybersecurity**, and **software development**.  
-- 🔭 Currently exploring **ethical hacking**, **cybersecurity techniques**, and **mobile app development**.  
-- 🚀 Dedicated to learning how to **secure systems**, **prevent vulnerabilities**, and **develop innovative solutions**.  
-- 🤝 Open to collaborating on **cybersecurity projects**, **open-source contributions**, and **innovative apps**.  
+---  
 
----
+- 👨‍🎓 **2nd-Year BTech Student** specializing in **Computer Science and Engineering** at **Invertis University, Bareilly**.  
+- 🚀 Passionate about **cybersecurity**, **ethical hacking**, and **building secure systems**.  
+- 🛡️ Dedicated to mastering **cyber defense strategies**, **penetration testing**, and **vulnerability assessments**.  
+- 🌟 Committed to developing skills that contribute to a **secure and resilient digital ecosystem**.  
+- 🤝 Open to collaborations on **cybersecurity research**, **ethical hacking projects**, and **open-source security tools**.  
+
+---  
+
+💡 **Mission:** To safeguard the digital world by staying ahead in cybersecurity and ethical hacking.  
+🌍 **Let’s Connect:** Together, we can make technology safer for everyone!
+
 
 ## 🛠 **Tech Stack**
 
@@ -25,10 +32,12 @@
 ---
 
 ## 🎯 **Goals for 2025**  
-- Earn certifications like **Certified Ethical Hacker (CEH)** and **CompTIA Security+**.  
-- Contribute to **open-source cybersecurity projects**.  
-- Master advanced **Linux shell scripting**, **web security**, and **mobile app development**.  
-- Participate in more **Capture The Flag (CTF)** challenges and hackathons.  
+
+- 🏆 Earn globally recognized certifications like **Certified Ethical Hacker (CEH)**, **CompTIA Security+**, and **Offensive Security Certified Professional (OSCP)**.  
+- 🛠️ Contribute to impactful **open-source cybersecurity tools** and collaborate on **innovative security projects**.  
+- 📖 Master advanced skills in **Linux shell scripting**, **network security**, **cloud security**, and **web application security**.  
+- 🕵️‍♂️ Participate in **Capture The Flag (CTF)** competitions, **bug bounty programs**, and **cybersecurity hackathons** to continually enhance expertise.  
+- 🌐 Expand knowledge in **threat hunting**, **incident response**, and **digital forensics** to become a well-rounded security professional.  
 
 ---
 
