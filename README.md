@@ -98,7 +98,7 @@
 - 🤔 Always curious about how hackers think and use their skills creatively.
 
 
-# If You Want See My work then Check out All My Orgnized Repositories
+# If You Want See My work then Check out Repositories
 
 ## Python Projects
 - [Modified-Supriya-An-desktop-Assistant](https://github.com/Arya182-ui/Modified-Supriya-An-desktop-Assistant) - Advanced version of the Supriya desktop assistant.
