@@ -71,7 +71,7 @@
 ### 📈 **Contribution Graph**  
 📌 **Visualize my GitHub activity over time!**  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arya182-ui&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arya182-ui&theme=juicyfresh" alt="Contribution Graph" />
 </p>
 
 ---
