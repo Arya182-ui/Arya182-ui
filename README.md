@@ -1,8 +1,9 @@
-# 👋 Hello, I'm **Ayush Gangwar (Arya)**!  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arya182-ui&label=Profile%20views&color=blue&style=flat-square)  
-![GitHub Followers](https://img.shields.io/github/followers/Arya182-ui?label=Followers&style=flat-square)  
-![GitHub Stars](https://img.shields.io/github/stars/Arya182-ui?label=Stars&style=flat-square)  
+# <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hello, I'm **Ayush Gangwar (Arya)**</h1>  
+  
+
+ <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"  /></p>
+
 
 ---
 
