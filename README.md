@@ -84,15 +84,6 @@
 
 ---
 
-## 📫 **Connect with Me**  
-<p align="center">
-  <a href="mailto:arya119000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ayush-gangwar-3b3526237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/i_am_arya119/profilecard/?igsh=cTN5YWxhdjMyaG52"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
----
-
 ## ⚡ **Fun Facts**  
 - 🔎 I love uncovering vulnerabilities and solving **CTF challenges**.  
 - 🛡️ Excited to learn new hacking tools and techniques to secure systems better.  
@@ -143,4 +134,13 @@
 Do you like My projects? You can show your support by buying me a coffee! Your contributions motivate me to keep improving and building more awesome projects. 💻❤  
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://buymeacoffee.com/Arya182)
+
+---
+
+## 📫 **Connect with Me**  
+<p align="center">
+  <a href="mailto:arya119000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ayush-gangwar-3b3526237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/i_am_arya119/profilecard/?igsh=cTN5YWxhdjMyaG52"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
