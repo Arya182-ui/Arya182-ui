@@ -92,9 +92,7 @@
 
 # If You Want See My work then Check out Repositories
 
-➡️ **Projects Showcase**
-
-[![Projects Showcase](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=vercel)](https://projectsshowcase-lyart.vercel.app/)
+[![Projects Showcase](https://img.shields.io/badge/Project%20Slider-Click%20Here-brightgreen?style=for-the-badge&logo=vercel)](https://projectsshowcase-lyart.vercel.app/)
 
 
 ## CyberSecurty Projects 
