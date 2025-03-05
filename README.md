@@ -92,24 +92,28 @@
 
 # If You Want See My work then Check out Repositories
 
+## CyberSecurty Projects 
+- [Integrity-Checker](https://github.com/Arya182-ui/Integrity-Checker) - An advanced File Integrity Checker that monitors files and directories for unauthorized changes .
+- [Caesar-Cipher](https://github.com/Arya182-ui/Caesar-Ciphe) - A powerful, user-friendly GUI-based application for encrypting, decrypting, and visualizing text using the Caesar Cipher technique.
+- [Password_Cracker](https://github.com/Arya182-ui/PAssword_Cracker) - 🔐 Non-Hashed & Hashed Password Cracker with Advanced GUI by Python .
+- [Web_Venerability_Scanner](https://github.com/Arya182-ui/Web_Venerability_Scanner) - A **Command-Line Web Vulnerability Scanner** built in Python to scan websites for **SQL Injection, XSS, Directory Traversal**, and **Subdomain Enumeration** with **Tor & Proxy support** for anonymous scanning. The tool also generates an **HTML report** with the results.
+- [PassGuard](https://github.com/Arya182-ui/PassGuard) - A Web based Strong Password Strength Checker built with React.
+- [Keylogger](https://github.com/Arya182-ui/KEYLOGGER) - This Keylogger can capture Key strocks , mouse clicks , take screenshot , take picture and send them to firebase.
+- [Network_Scanner](https://github.com/Arya182-ui/Network_Scanner) - Python script for network scanning.
+- [Password-Manager](https://github.com/Arya182-ui/Password-Manager) - Python-based password manager.
+
 ## Python Projects
 - [Modified-Supriya-An-desktop-Assistant](https://github.com/Arya182-ui/Modified-Supriya-An-desktop-Assistant) - Advanced version of the Supriya desktop assistant.
 - [Voice-Recognition-Model](https://github.com/Arya182-ui/Voice-Recognition-Model) - Voice recognition system that identifies speakers.
 - [Smart_Attendance](https://github.com/Arya182-ui/Smart_Attendance) - Smart attendance system using face recognition.
 - [upgraded_face_recognition_model](https://github.com/Arya182-ui/upgraded_face_recognition_model) - Upgraded version of the face recognition model.
 - [Face_Recognition_Model](https://github.com/Arya182-ui/Face_Recognition_Model) - Face recognition model using Python.
-- [Network_Scanner](https://github.com/Arya182-ui/Network_Scanner) - Python script for network scanning.
-- [Password-Manager](https://github.com/Arya182-ui/Password-Manager) - Python-based password manager.
 - [Brute_force_camera](https://github.com/Arya182-ui/Brute_force_camera) - Basic Python script to capture pictures via the camera.
 
   
-## React Projects
+## React Projects / Web Development Projects 
 - [Krishnasalsemart](https://github.com/Arya182-ui/Krishnasalsemart) - Full responsive clone of the Krishna Sales Mart website.
 - [faqchatbot](https://github.com/Arya182-ui/faqchatbot) - A chatbot with FAQ functionality.
-- [Arya-Final](https://github.com/Arya182-ui/Arya-Final) - Portfolio created with React.
-
-
-## Web Development Projects
 - [EESVO](https://github.com/Arya182-ui/EESVO) - Platform for engineers covering core engineering concepts.
 - [Mouse_cursor](https://github.com/Arya182-ui/Mouse_cursor) - Animated mouse cursor with breathing effect.
 - [happy_new_year](https://github.com/Arya182-ui/happy_new_year) - New Year wishes with code.
@@ -117,11 +121,12 @@
 ## Proftolio's
 - [Cybersecurty-Protfolio](https://github.com/Arya182-ui/Cybersecurty-Protfolio) - Cybersecurity portfolio for students.
 - [Protfolio](https://github.com/Arya182-ui/Protfolio) - Animated portfolio template.
-- [buy-a-coffee-for-me](https://github.com/Arya182-ui/buy-a-coffee-for-me) - Simple "Buy me a Coffee" page template.
+- [Arya-Final](https://github.com/Arya182-ui/Arya-Final) - Portfolio created with React.
 
 
 ## GitHub Profile & Configuration
 - [Arya182-ui](https://github.com/Arya182-ui/Arya182-ui) - My GitHub profile repository.
+- [buy-a-coffee-for-me](https://github.com/Arya182-ui/buy-a-coffee-for-me) - Simple "Buy me a Coffee" page template.
 - [github-config](https://github.com/Arya182-ui/github-config) - GitHub configuration for my profile.
 
 ## Archived Projects
