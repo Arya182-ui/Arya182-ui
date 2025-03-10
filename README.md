@@ -99,6 +99,7 @@
 - [Integrity-Checker](https://github.com/Arya182-ui/Integrity-Checker) - An advanced File Integrity Checker that monitors files and directories for unauthorized changes .
 - [Caesar-Cipher](https://github.com/Arya182-ui/Caesar-Ciphe) - A powerful, user-friendly GUI-based application for encrypting, decrypting, and visualizing text using the Caesar Cipher technique.
 - [Password_Cracker](https://github.com/Arya182-ui/PAssword_Cracker) - 🔐 Non-Hashed & Hashed Password Cracker with Advanced GUI by Python .
+- [CVE-Checker](https://github.com/Arya182-ui/CVE-Checker-Pro) - A professional CVE checker tool with a modern PyQt6 dark-themed UI , real-time software name and version suggestions , and multi-threaded CVE fetching from the NIST NVD API. The tool allows users to search for vulnerabilities based on CPE (Common Platform Enumeration) and store results locally.
 - [Web_Venerability_Scanner](https://github.com/Arya182-ui/Web_Venerability_Scanner) - A **Command-Line Web Vulnerability Scanner** built in Python to scan websites for **SQL Injection, XSS, Directory Traversal**, and **Subdomain Enumeration** with **Tor & Proxy support** for anonymous scanning. The tool also generates an **HTML report** with the results.
 - [PassGuard](https://github.com/Arya182-ui/PassGuard) - A Web based Strong Password Strength Checker built with React.
 - [Keylogger](https://github.com/Arya182-ui/KEYLOGGER) - This Keylogger can capture Key strocks , mouse clicks , take screenshot , take picture and send them to firebase.
