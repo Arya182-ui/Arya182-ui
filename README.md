@@ -107,7 +107,7 @@
 - [Password-Manager](https://github.com/Arya182-ui/Password-Manager) - Python-based password manager.
 
 ## Python Projects
-- [Modified-Supriya-An-desktop-Assistant](https://github.com/Arya182-ui/Modified-Supriya-An-desktop-Assistant) - Advanced version of the Supriya desktop assistant.
+- [Modified-Supriya-An-desktop-Assistant](https://github.com/Arya182-ui/Modified-Supriya-An-desktop-Assistant-) - Advanced version of the Supriya desktop assistant.
 - [Voice-Recognition-Model](https://github.com/Arya182-ui/Voice-Recognition-Model) - Voice recognition system that identifies speakers.
 - [Smart_Attendance](https://github.com/Arya182-ui/Smart_Attendance) - Smart attendance system using face recognition.
 - [upgraded_face_recognition_model](https://github.com/Arya182-ui/upgraded_face_recognition_model) - Upgraded version of the face recognition model.
