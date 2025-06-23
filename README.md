@@ -27,7 +27,9 @@
 
 ## 🛠 **Tech Stack**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+### 🔐 Cybersecurity & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C87?style=plastic&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-9B1D20?style=plastic&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1676D3?style=plastic&logo=wireshark&logoColor=white)
@@ -41,14 +43,67 @@
 ![Shodan](https://img.shields.io/badge/Shodan-F3A12E?style=plastic&logo=shodan&logoColor=white)
 ![John The Ripper](https://img.shields.io/badge/John%20The%20Ripper-9B1D20?style=plastic&logo=john-the-ripper&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-8D3D3D?style=plastic&logo=hashcat&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-9C1D19?style=plastic&logo=burp-suite&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/aircrack--ng-FF6600?style=plastic&logo=aircrack-ng&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-9B1D20?style=plastic&logo=metasploit&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-0E7CBB?style=plastic&logo=tor-project&logoColor=white)
 ![ProxyChains](https://img.shields.io/badge/ProxyChains-61A7F0?style=plastic&logo=proxychains&logoColor=white)
 ![SSL Labs](https://img.shields.io/badge/SSL%20Labs-D02E2A?style=plastic&logo=ssllabs&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-2C3E50?style=plastic&logo=nikto&logoColor=white)
 ![Hydra](https://img.shields.io/badge/THC%20Hydra-FF4E00?style=plastic&logo=hydra&logoColor=white)
+
+---
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=plastic&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=plastic&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🤖 AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=plastic&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=plastic&logo=python&logoColor=white)
+
+
+
+### 🧑‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+
+
+### 🛠 Tools & Platforms
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+
+
 
 
 ---
