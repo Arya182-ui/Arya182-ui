@@ -24,8 +24,10 @@
 💡 **Mission:** To safeguard the digital world by staying ahead in cybersecurity and ethical hacking.  
 🌍 **Let’s Connect:** Together, we can make technology safer for everyone!
 
+---
 
 ## 🛠 **Tech Stack**
+
 
 ### 🔐 Cybersecurity & Tools
 
@@ -78,7 +80,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=plastic&logo=python&logoColor=white)
 
-
+---
 
 ### 🧑‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
@@ -90,12 +92,16 @@
 ![React](https://img.shields.io/badge/react-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 
+---
+
 ### 🛠 Tools & Platforms
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+
+---
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
@@ -110,6 +116,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya182-ui&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" />
 </p>
+
+---
 
 ### 📊 **GitHub Stats**  
 ✨ **A glimpse into my GitHub journey!**  
