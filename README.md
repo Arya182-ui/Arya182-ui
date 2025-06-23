@@ -14,7 +14,7 @@
 ---  
 
 - 👨‍🎓 **2nd-Year BTech Student** specializing in **Computer Science and Engineering** at **Invertis University, Bareilly**.  
-- 🚀 Passionate about **cybersecurity**, **ethical hacking**, and **building secure systems**.  
+- 🚀 Passionate about **cybersecurity**, **ethical hacking**, **AI**, **Web Dev** and **building secure systems**.  
 - 🛡️ Dedicated to mastering **cyber defense strategies**, **penetration testing**, and **vulnerability assessments**.  
 - 🌟 Committed to developing skills that contribute to a **secure and resilient digital ecosystem**.  
 - 🤝 Open to collaborations on **cybersecurity research**, **ethical hacking projects**, and **open-source security tools**.  
