@@ -1,4 +1,4 @@
-
+  
 # <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hello, I'm **Ayush Gangwar (Arya)**</h1>  
   
 
@@ -29,7 +29,6 @@
 
 ### 🔐 Cybersecurity & Tools
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C87?style=plastic&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-9B1D20?style=plastic&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1676D3?style=plastic&logo=wireshark&logoColor=white)
@@ -91,11 +90,6 @@
 ![React](https://img.shields.io/badge/react-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
-
-
 ### 🛠 Tools & Platforms
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
@@ -103,8 +97,9 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 
-
-
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
 
 ---
 
