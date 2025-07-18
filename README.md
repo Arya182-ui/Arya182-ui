@@ -1,190 +1,405 @@
-  
-# <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hello, I'm **Ayush Gangwar (Arya)**</h1>  
-  
+<div align="center">
 
- <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"  /></p>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hello World! I'm **Ayush Gangwar (Arya)**
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+%26+Security+Researcher+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;BTech+Student+%40+Invertis+University+%F0%9F%8E%93;Building+Secure+Digital+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 
----
-
-## 🌟 **About Me**  
-
-🎓 **BTech Student** | 💻 **Cybersecurity Enthusiast** | 🔐 **Aspiring Ethical Hacker**  
-
----  
-
-- 👨‍🎓 **2nd-Year BTech Student** specializing in **Computer Science and Engineering** at **Invertis University, Bareilly**.  
-- 🚀 Passionate about **cybersecurity**, **ethical hacking**, **AI**, **Web Dev** and **building secure systems**.  
-- 🛡️ Dedicated to mastering **cyber defense strategies**, **penetration testing**, and **vulnerability assessments**.  
-- 🌟 Committed to developing skills that contribute to a **secure and resilient digital ecosystem**.  
-- 🤝 Open to collaborations on **cybersecurity research**, **ethical hacking projects**, and **open-source security tools**.  
-
----  
-
-💡 **Mission:** To safeguard the digital world by staying ahead in cybersecurity and ethical hacking.  
-🌍 **Let’s Connect:** Together, we can make technology safer for everyone!
-
----
-
-## 🛠 **Tech Stack**
-
-
-### 🔐 Cybersecurity & Tools
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C87?style=plastic&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-9B1D20?style=plastic&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1676D3?style=plastic&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-9C1D19?style=plastic&logo=burp-suite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-1E1E1E?style=plastic&logo=virtualbox&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-8D24D2?style=plastic&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/nmap-%23FF6600.svg?style=plastic&logo=nmap&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-F3A12E?style=plastic&logo=shodan&logoColor=white)
-![John The Ripper](https://img.shields.io/badge/John%20The%20Ripper-9B1D20?style=plastic&logo=john-the-ripper&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-8D3D3D?style=plastic&logo=hashcat&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/aircrack--ng-FF6600?style=plastic&logo=aircrack-ng&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-0E7CBB?style=plastic&logo=tor-project&logoColor=white)
-![ProxyChains](https://img.shields.io/badge/ProxyChains-61A7F0?style=plastic&logo=proxychains&logoColor=white)
-![SSL Labs](https://img.shields.io/badge/SSL%20Labs-D02E2A?style=plastic&logo=ssllabs&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-2C3E50?style=plastic&logo=nikto&logoColor=white)
-![Hydra](https://img.shields.io/badge/THC%20Hydra-FF4E00?style=plastic&logo=hydra&logoColor=white)
-
----
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000?style=plastic&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=plastic&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-
----
-
-### 🤖 AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=plastic&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=plastic&logo=python&logoColor=white)
-
----
-
-### 🧑‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-
----
-
-### 🛠 Tools & Platforms
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
-
----
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
-
----
-
-## 🚀 **GitHub Overview**
-
-### 🌟 **Top Languages**  
-💻 **Discover the languages I use the most!**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya182-ui&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" />
 </p>
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=Arya182-ui&color=00d9ff&style=for-the-badge&label=Profile+Views)](https://github.com/Arya182-ui)
+[![GitHub followers](https://img.shields.io/github/followers/Arya182-ui?logo=GitHub&style=for-the-badge&color=00d9ff)](https://github.com/Arya182-ui)
+[![GitHub Stars](https://img.shields.io/github/stars/Arya182-ui?logo=github&style=for-the-badge&color=00d9ff)](https://github.com/Arya182-ui)
 
-### 📊 **GitHub Stats**  
-✨ **A glimpse into my GitHub journey!**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arya182-ui&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats" />
-</p>
-
-
+</div>
 
 ---
 
-### 🔥 **Streak Stats**  
-⚡ **Consistency is key to growth!**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya182-ui&theme=radical&cachebuster=1" alt="GitHub Streak Stats" />
-</p>
+## 🌟 **About Me**
+
+<div align="center">
+
+### 🎯 **Mission: Securing the Digital Frontier**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎓 **Academic Journey**
+- 📚 **2nd-Year BTech Student** in **Computer Science & Engineering**
+- 🏛️ **Invertis University, Bareilly**
+- 🎯 **Specializing in Cybersecurity & Software Development**
+- 📈 **GPA**: Maintaining excellent academic performance
+
+### 🛡️ **Cybersecurity Focus**
+- 🔐 **Ethical Hacking & Penetration Testing**
+- 🛠️ **Security Tools Development**
+- 🔍 **Vulnerability Assessment & Research**
+- 🚨 **Digital Forensics & Incident Response**
+
+</td>
+<td width="50%">
+
+### 💻 **Development Expertise**
+- 🌐 **Full-Stack Web Development**
+- 🤖 **AI & Machine Learning Applications**
+- 📱 **Responsive UI/UX Design**
+- 🔧 **DevOps & Cloud Security**
+
+### 🌟 **Core Values**
+- 🤝 **Open Source Advocate**
+- 📚 **Continuous Learning**
+- 🌍 **Community Contribution**
+- 🔒 **Privacy & Security First**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 **Current Goals for 2025**
+
+[![Certified Ethical Hacker](https://img.shields.io/badge/Target-CEH%20Certification-red?style=for-the-badge&logo=comptia)](https://www.eccouncil.org/)
+[![Bug Bounty](https://img.shields.io/badge/Goal-Bug%20Bounty%20Hunter-orange?style=for-the-badge&logo=hackerone)](https://hackerone.com/)
+[![Open Source](https://img.shields.io/badge/Contributing-Open%20Source-green?style=for-the-badge&logo=github)](https://github.com/Arya182-ui)
+
+**💡 "Making technology safer, one line of code at a time"**
+
+</div>
 
 ---
 
-### 📈 **Contribution Graph**  
-📌 **Visualize my GitHub activity over time!**  
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arya182-ui&theme=juicyfresh&area=true" />
+## 🛠 **Tech Arsenal**
 
-</p>
+<div align="center">
 
+### 🎨 **Technology Mastery Showcase**
+
+</div>
+
+<details>
+<summary><strong>🔐 Cybersecurity & Penetration Testing Tools</strong></summary>
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C87?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-9B1D20?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1676D3?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-9C1D19?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-8D24D2?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/nmap-%23FF6600.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-F3A12E?style=for-the-badge&logo=shodan&logoColor=white)
+![John The Ripper](https://img.shields.io/badge/John%20The%20Ripper-9B1D20?style=for-the-badge&logo=john-the-ripper&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-8D3D3D?style=for-the-badge&logo=hashcat&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/aircrack--ng-FF6600?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-2C3E50?style=for-the-badge&logo=nikto&logoColor=white)
+![Hydra](https://img.shields.io/badge/THC%20Hydra-FF4E00?style=for-the-badge&logo=hydra&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><strong>🌐 Web Development & Frameworks</strong></summary>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><strong>🤖 AI & Machine Learning</strong></summary>
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><strong>🧑‍💻 Programming Languages</strong></summary>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><strong>🛠 Development Tools & Platforms</strong></summary>
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-1E1E1E?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><strong>☁️ Cloud & DevOps</strong></summary>
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+</details>
 
 ---
 
-### 🏆 **GitHub Trophies**  
-🏅 **Celebrating milestones and achievements!**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arya182-ui&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+## 🚀 **GitHub Analytics Dashboard**
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arya182-ui&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arya182-ui&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya182-ui&theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya182-ui&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+### 🏆 **GitHub Achievements**
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arya182-ui&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
-# If You Want See My work then Check out Repositories
+## 🎯 **Featured Projects**
 
-[![Projects Showcase](https://img.shields.io/badge/Project%20Slider-Click%20Here-brightgreen?style=for-the-badge&logo=vercel)](https://projectsshowcase-lyart.vercel.app/)
+<div align="center">
 
+### 💼 **Project Portfolio Showcase**
 
-## Some Projects are 
-- [Integrity-Checker](https://github.com/Arya182-ui/Integrity-Checker) - An advanced File Integrity Checker that monitors files and directories for unauthorized changes .
-- [Caesar-Cipher](https://github.com/Arya182-ui/Caesar-Ciphe) - A powerful, user-friendly GUI-based application for encrypting, decrypting, and visualizing text using the Caesar Cipher technique.
-- [Password_Cracker](https://github.com/Arya182-ui/PAssword_Cracker) - 🔐 Non-Hashed & Hashed Password Cracker with Advanced GUI by Python .
-- [CVE-Checker](https://github.com/Arya182-ui/CVE-Checker-Pro) - A professional CVE checker tool with a modern PyQt6 dark-themed UI , real-time software name and version suggestions , and multi-threaded CVE fetching from the NIST NVD API. The tool allows users to search for vulnerabilities based on CPE (Common Platform Enumeration) and store results locally.
-- [Web_Venerability_Scanner](https://github.com/Arya182-ui/Web_Venerability_Scanner) - A **Command-Line Web Vulnerability Scanner** built in Python to scan websites for **SQL Injection, XSS, Directory Traversal**, and **Subdomain Enumeration** with **Tor & Proxy support** for anonymous scanning. The tool also generates an **HTML report** with the results.
-- [PassGuard](https://github.com/Arya182-ui/PassGuard) - A Web based Strong Password Strength Checker built with React.
-- [Keylogger](https://github.com/Arya182-ui/KEYLOGGER) - This Keylogger can capture Key strocks , mouse clicks , take screenshot , take picture and send them to firebase.
-- [Network_Scanner](https://github.com/Arya182-ui/Network_Scanner) - Python script for network scanning.
-- [Password-Manager](https://github.com/Arya182-ui/Password-Manager) - Python-based password manager.
+[![Projects Showcase](https://img.shields.io/badge/🚀%20Interactive%20Portfolio-Visit%20Now-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://projectsshowcase-lyart.vercel.app/)
 
-## 📫 **Connect with Me**  
-<p align="center">
-  <a href="mailto:arya119000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ayush-gangwar-3b3526237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/i_am_arya119/profilecard/?igsh=cTN5YWxhdjMyaG52"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+</div>
 
+<div align="center">
+<table>
+<tr>
+<td width="33%">
 
-## ☕ Support Me
+### 🛡️ **Security Tools**
 
-Do you like My projects? You can show your support by buying me a coffee! Your contributions motivate me to keep improving and building more awesome projects. 💻❤  
+[![Integrity Checker](https://img.shields.io/badge/Integrity%20Checker-File%20Monitoring-red?style=for-the-badge&logo=security&logoColor=white)](https://github.com/Arya182-ui/Integrity-Checker)
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://buymeacoffee.com/Arya182)
+[![CVE Checker](https://img.shields.io/badge/CVE%20Checker-Vulnerability%20Scanner-orange?style=for-the-badge&logo=security&logoColor=white)](https://github.com/Arya182-ui/CVE-Checker-Pro)
+
+[![Web Scanner](https://img.shields.io/badge/Web%20Scanner-Security%20Testing-yellow?style=for-the-badge&logo=security&logoColor=black)](https://github.com/Arya182-ui/Web_Venerability_Scanner)
+
+</td>
+<td width="33%">
+
+### 🔐 **Ethical Hacking**
+
+[![Password Cracker](https://img.shields.io/badge/Password%20Cracker-Security%20Research-green?style=for-the-badge&logo=key&logoColor=white)](https://github.com/Arya182-ui/PAssword_Cracker)
+
+[![Network Scanner](https://img.shields.io/badge/Network%20Scanner-Infrastructure-blue?style=for-the-badge&logo=network-wired&logoColor=white)](https://github.com/Arya182-ui/Network_Scanner)
+
+[![Keylogger](https://img.shields.io/badge/Keylogger-Digital%20Forensics-purple?style=for-the-badge&logo=keyboard&logoColor=white)](https://github.com/Arya182-ui/KEYLOGGER)
+
+</td>
+<td width="33%">
+
+### 💻 **Development**
+
+[![Password Manager](https://img.shields.io/badge/Password%20Manager-Security%20App-cyan?style=for-the-badge&logo=lastpass&logoColor=white)](https://github.com/Arya182-ui/Password-Manager)
+
+[![PassGuard](https://img.shields.io/badge/PassGuard-React%20App-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Arya182-ui/PassGuard)
+
+[![Caesar Cipher](https://img.shields.io/badge/Caesar%20Cipher-Cryptography-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Arya182-ui/Caesar-Ciphe)
+
+</td>
+</tr>
+</table>
+</div>
+
+### 🌟 **Project Highlights**
+
+<details>
+<summary><strong>🔒 Integrity-Checker</strong> - Advanced File Monitoring System</summary>
+
+- 📁 **Real-time file monitoring** with hash verification
+- 🚨 **Instant breach detection** and alert system
+- 📊 **Comprehensive logging** and reporting
+- 🛡️ **Multi-algorithm hashing** (MD5, SHA-256, SHA-512)
+
+</details>
+
+<details>
+<summary><strong>🕵️ CVE-Checker-Pro</strong> - Professional Vulnerability Scanner</summary>
+
+- 🔍 **Real-time CVE database** integration
+- 🎯 **Software vulnerability assessment**
+- 📈 **Risk scoring** and prioritization
+- 🌐 **NIST NVD API** integration
+
+</details>
+
+<details>
+<summary><strong>🌐 Web-Vulnerability-Scanner</strong> - Security Testing Suite</summary>
+
+- 🔍 **SQL Injection** detection
+- ⚡ **XSS vulnerability** scanning
+- 🗂️ **Directory traversal** testing
+- 🌐 **Subdomain enumeration**
+- 🔒 **Anonymous scanning** with Tor support
+
+</details>
+
+<details>
+<summary><strong>🔐 Password-Cracker</strong> - Security Research Tool</summary>
+
+- 🎯 **Dictionary attacks** on hashed passwords
+- 🔢 **Brute force** capabilities
+- 📊 **Multiple hash algorithms** support
+- 🖥️ **Modern GUI** interface
+
+</details>
 
 ---
 
+## 🌐 **Connect & Collaborate**
 
+<div align="center">
+
+### 🤝 **Let's Build Something Amazing Together!**
+
+<table>
+<tr>
+<td align="center">
+<a href="mailto:arya119000@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Professional%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/ayush-gangwar-cyber/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.instagram.com/i_am_arya119/">
+<img src="https://img.shields.io/badge/📸%20Instagram-Creative%20Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+</td>
+</tr>
+</table>
+
+### 🌟 **Collaboration Opportunities**
+
+[![Open to Work](https://img.shields.io/badge/🚀%20Open%20to%20Work-Cybersecurity%20Roles-success?style=for-the-badge)](mailto:arya119000@gmail.com)
+[![Freelancing](https://img.shields.io/badge/💻%20Freelancing-Security%20Projects-blue?style=for-the-badge)](mailto:arya119000@gmail.com)
+[![Mentorship](https://img.shields.io/badge/🎓%20Mentorship-Learning%20Together-purple?style=for-the-badge)](mailto:arya119000@gmail.com)
+
+### 📬 **Get In Touch**
+
+- 💬 **Cybersecurity Collaborations** - Always open to working on security projects
+- 🔍 **Research Partnerships** - Interested in vulnerability research and ethical hacking
+- 🎓 **Knowledge Sharing** - Happy to mentor and learn from fellow developers
+- 🌟 **Open Source Contributions** - Looking for meaningful projects to contribute to
+
+</div>
+
+---
+
+## ☕ **Support My Journey**
+
+<div align="center">
+
+### 💖 **Help Fuel More Security Innovations**
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20My%20Work-FF6B35?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](http://buymeacoffee.com/Arya182)
+[![GitHub Sponsors](https://img.shields.io/badge/💖%20GitHub%20Sponsors-Monthly%20Support-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Arya182-ui)
+
+### 🙏 **Your Support Helps Me**
+
+- 🔧 **Develop** more advanced security tools
+- 📚 **Create** educational cybersecurity content
+- 🌟 **Maintain** open-source projects
+- 🎓 **Fund** my cybersecurity certifications
+- 💻 **Upgrade** development infrastructure
+
+*Every contribution, no matter how small, makes a huge difference in my journey! 💙*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 **"Security is not a product, but a process"** - Bruce Schneier
+
+**Thank you for visiting my profile! Let's make the digital world safer together! 🛡️✨**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=footer&animation=fadeIn" alt="Footer" />
+
+</div>
