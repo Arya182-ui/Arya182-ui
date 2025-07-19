@@ -397,6 +397,11 @@ const developer = {
 
 **Thank you for visiting my profile! Let's make the digital world safer together! 🛡️✨**
 
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-200K%2B-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects%20Completed-35%2B-green?style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Arya182-ui?style=for-the-badge&color=orange)
+![Total Stars](https://img.shields.io/github/stars/Arya182-ui?style=for-the-badge&color=yellow)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=footer&animation=fadeIn" alt="Footer" />
 
 </div>
