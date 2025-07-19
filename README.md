@@ -11,54 +11,54 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Arya182-ui&color=00d9ff&style=for-the-badge&label=Profile+Views)](https://github.com/Arya182-ui)
 [![GitHub followers](https://img.shields.io/github/followers/Arya182-ui?logo=GitHub&style=for-the-badge&color=00d9ff)](https://github.com/Arya182-ui)
 [![GitHub Stars](https://img.shields.io/github/stars/Arya182-ui?logo=github&style=for-the-badge&color=00d9ff)](https://github.com/Arya182-ui)
-
+![Projects](https://img.shields.io/badge/Projects-35%2B-6366f1?style=for-the-badge&logo=github&color=00d9ff)
 </div>
 
 ---
 
 ## 🌟 **About Me**
 
+**Welcome to my digital portfolio!** I'm **Ayush Gangwar**, a passionate Computer Science Engineering student and full-stack developer with a deep fascination for cybersecurity, artificial intelligence, and innovative technology solutions.
+
+### 🎯 Mission Statement
+
+> *"Bridging the gap between cutting-edge technology and real-world applications through innovative development, ethical cybersecurity practices, and AI-powered solutions."*
+
+### 🌟 Professional Identity
+
+- 🎓 **Computer Science Engineering Student** - Pursuing B.Tech with focus on modern technologies
+- 💻 **Full-Stack Developer** - Expertise in web applications and system architecture
+- 🛡️ **Cybersecurity Researcher** - Ethical hacking and security analysis specialist
+- 🤖 **AI/ML Engineer** - Machine learning and computer vision applications
+- 🌐 **Open Source Advocate** - Contributing to community-driven development
+
+## ⚡ Quick Overview
+
 <div align="center">
 
-### 🎯 **Mission: Securing the Digital Frontier**
+### 📊 Developer Stats at a Glance
+
+| 💼 **Professional Focus** | 🎯 **Current Status** |
+|-------------------------|---------------------|
+| **Primary Role** | Full-Stack Developer & Cybersecurity Researcher |
+| **Specialization** | Web Development, AI/ML, Cybersecurity |
+| **Education** | B.Tech Computer Science Engineering |
+| **Location** | India 🇮🇳 |
+| **Open Source** | 35+ Public Repositories |
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
+### 🎭 What Drives Me
 
-### 🎓 **Academic Journey**
-- 📚 **2nd-Year BTech Student** in **Computer Science & Engineering**
-- 🏛️ **Invertis University, Bareilly**
-- 🎯 **Specializing in Cybersecurity & Software Development**
-- 📈 **GPA**: Maintaining excellent academic performance
-
-### 🛡️ **Cybersecurity Focus**
-- 🔐 **Ethical Hacking & Penetration Testing**
-- 🛠️ **Security Tools Development**
-- 🔍 **Vulnerability Assessment & Research**
-- 🚨 **Digital Forensics & Incident Response**
-
-</td>
-<td width="50%">
-
-### 💻 **Development Expertise**
-- 🌐 **Full-Stack Web Development**
-- 🤖 **AI & Machine Learning Applications**
-- 📱 **Responsive UI/UX Design**
-- 🔧 **DevOps & Cloud Security**
-
-### 🌟 **Core Values**
-- 🤝 **Open Source Advocate**
-- 📚 **Continuous Learning**
-- 🌍 **Community Contribution**
-- 🔒 **Privacy & Security First**
-
-</td>
-</tr>
-</table>
-
+```typescript
+const developer = {
+  name: "Ayush Gangwar",
+  role: "Full-Stack Developer & Cybersecurity Expert",
+  passions: ["AI/ML", "Cybersecurity", "Web Development", "Open Source"],
+  currentFocus: "Building intelligent, secure, and scalable applications",
+  lifePhilosophy: "Code with purpose, secure with responsibility, innovate with ethics"
+};
+```
 <div align="center">
 
 ### 🎯 **Current Goals for 2025**
