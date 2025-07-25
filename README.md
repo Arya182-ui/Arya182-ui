@@ -18,7 +18,7 @@
 
 ## 🌟 **About Me**
 
-**Welcome to my digital portfolio!** I'm **Ayush Gangwar**, a passionate Computer Science Engineering student and full-stack developer with a deep fascination for cybersecurity, artificial intelligence, and innovative technology solutions.
+**Welcome to my Github Profile!** I'm **Ayush Gangwar**, a passionate Computer Science Engineering student and full-stack developer with a deep fascination for cybersecurity, artificial intelligence, and innovative technology solutions.
 
 ### 🎯 Mission Statement
 
