@@ -216,7 +216,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://readmestate.vercel.app/api?username=Arya182-ui&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://readmestate.vercel.app/api/top-langs/?username=Arya182-ui&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
