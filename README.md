@@ -41,7 +41,7 @@
 | 💼 **Professional Focus** | 🎯 **Current Status** |
 |-------------------------|---------------------|
 | **Primary Role** | Full-Stack Developer & Cybersecurity Researcher |
-| **Specialization** | Web Development, AI/ML, Cybersecurity |
+| **Specialization** | Cybersecurity |
 | **Education** | B.Tech Computer Science Engineering |
 | **Location** | India 🇮🇳 |
 | **Open Source** | 35+ Public Repositories |
