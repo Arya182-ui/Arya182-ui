@@ -352,41 +352,26 @@ const developer = {
 </tr>
 </table>
 
-### 🌟 **Collaboration Opportunities**
+### 🌐 **I'm Actively Looking For:**
 
 [![Open to Work](https://img.shields.io/badge/🚀%20Open%20to%20Work-Cybersecurity%20Roles-success?style=for-the-badge)](mailto:arya119000@gmail.com)
 [![Freelancing](https://img.shields.io/badge/💻%20Freelancing-Security%20Projects-blue?style=for-the-badge)](mailto:arya119000@gmail.com)
 [![Mentorship](https://img.shields.io/badge/🎓%20Mentorship-Learning%20Together-purple?style=for-the-badge)](mailto:arya119000@gmail.com)
 
-### 📬 **Get In Touch**
-
-- 💬 **Cybersecurity Collaborations** - Always open to working on security projects
-- 🔍 **Research Partnerships** - Interested in vulnerability research and ethical hacking
-- 🎓 **Knowledge Sharing** - Happy to mentor and learn from fellow developers
-- 🌟 **Open Source Contributions** - Looking for meaningful projects to contribute to
-
 </div>
 
 ---
 
-## ☕ **Support My Journey**
+## ☕ **Support My Work**
 
 <div align="center">
 
-### 💖 **Help Fuel More Security Innovations**
+### **Help Fuel More Security Research & Development**
 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20My%20Work-FF6B35?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](http://buymeacoffee.com/Arya182)
-[![GitHub Sponsors](https://img.shields.io/badge/💖%20GitHub%20Sponsors-Monthly%20Support-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Arya182-ui)
+[![GitHub Sponsors](https://img.shields.io/badge/💖%20GitHub%20Sponsors-Support%20My%20Code-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Arya182-ui)
 
-### 🙏 **Your Support Helps Me**
-
-- 🔧 **Develop** more advanced security tools
-- 📚 **Create** educational cybersecurity content
-- 🌟 **Maintain** open-source projects
-- 🎓 **Fund** my cybersecurity certifications
-- 💻 **Upgrade** development infrastructure
-
-*Every contribution, no matter how small, makes a huge difference in my journey! 💙*
+*Your support helps maintain open-source security tools and fund crucial certifications.*
 
 </div>
 
