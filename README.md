@@ -16,21 +16,22 @@
 
 ---
 
-## 🌟 **About Me**
+## 🛡️ **The Security Architect: About Me**
 
-**Welcome to my Github Profile!** I'm **Ayush Gangwar**, a passionate Computer Science Engineering student with a deep fascination for cybersecurity, artificial intelligence, and innovative technology solutions.
+**Welcome to my profile!** I'm **Ayush Gangwar**, a dedicated Computer Science Engineering student and a relentless pursuer of digital safety. My core focus lies at the intersection of **Cybersecurity, Ethical Hacking, and Full-Stack Development**, augmented by the power of **AI/ML**.
 
-### 🎯 Mission Statement
+### 💡 Core Philosophy
 
-> *"Bridging the gap between cutting-edge technology and real-world applications through innovative development, ethical cybersecurity practices, and AI-powered solutions."*
+> *"Building secure-by-design systems. I don't just build software; I secure it, research its vulnerabilities, and engineer robust digital defenses."*
 
-### 🌟 Professional Identity
+### 🔑 Key Areas of Expertise
 
-- 🎓 **Computer Science Engineering Student** - Pursuing B.Tech with focus on modern technologies
-- 💻 **Full-Stack Developer** - Expertise in web applications and system architecture
-- 🛡️ **Cybersecurity Researcher** - Ethical hacking and security analysis specialist
-- 🤖 **AI/ML Engineer** - Machine learning and computer vision applications
-- 🌐 **Open Source Advocate** - Contributing to community-driven development
+* **Cybersecurity & Pen-Testing:** Specializing in web application security, network scanning, and vulnerability research.
+* **Full-Stack Development:** Delivering scalable and secure web solutions using modern frameworks (Next.js, React).
+* **Applied AI/ML:** Leveraging machine learning for threat detection, anomaly analysis, and intelligent system development.
+* **Open Source Advocacy:** Actively contributing to community tools and maintaining over 35 public repositories.
+
+---
 
 ## ⚡ Quick Overview
 
