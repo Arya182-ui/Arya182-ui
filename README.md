@@ -1,11 +1,11 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hello World! I'm **Ayush Gangwar (Arya)**
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5MWo1ajJtOHFiandjZjZlcXJ6bzhmaGw3cmF6djdrZWl1bWJjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif" width="30px" height="30px"> Hello World! I'm **Ayush Gangwar (Arya)**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+%26+Security+Researcher+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;BTech+Student+%40+Invertis+University+%F0%9F%8E%93;Building+Secure+Digital+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h6bDducDB2YWoybTZvZjQ3Nmg3YXE1aGN0YjdwN2xlcHhzMW95ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Arya182-ui&color=00d9ff&style=for-the-badge&label=Profile+Views)](https://github.com/Arya182-ui)
