@@ -62,7 +62,7 @@ const developer = {
 ```
 <div align="center">
 
-### 🎯 **Current Goals for 2025**
+### 🎯 **Current Goals for 2026**
 
 [![Certified Ethical Hacker](https://img.shields.io/badge/Target-CEH%20Certification-red?style=for-the-badge&logo=comptia)](https://www.eccouncil.org/)
 [![Bug Bounty](https://img.shields.io/badge/Goal-Bug%20Bounty%20Hunter-orange?style=for-the-badge&logo=hackerone)](https://hackerone.com/)
@@ -208,7 +208,8 @@ const developer = {
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya182-ui&theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Arya182-ui&theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
+
 
 </td>
 </tr>
