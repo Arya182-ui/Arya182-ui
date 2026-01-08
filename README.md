@@ -208,7 +208,7 @@ const developer = {
 </td>
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com/?user=Arya182-ui&theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats1-azure.vercel.app/?user=Arya182-ui&theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
 
 
 </td>
