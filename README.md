@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5MWo1ajJtOHFiandjZjZlcXJ6bzhmaGw3cmF6djdrZWl1bWJjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif" width="30px" height="30px"> Hello World! I'm **Ayush Gangwar (Arya)**
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5MWo1ajJtOHFiandjZjZlcXJ6bzhmaGw3cmF6djdrZWl1bWJjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif" width="30px" height="30px"> Hello EveryOne! I'm **Ayush Gangwar**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+%26+Security+Researcher+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;BTech+Student+%40+Invertis+University+%F0%9F%8E%93;Building+Secure+Digital+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+%26+Security+Researcher+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;BTech+Student+%40+Invertis+University+%F0%9F%8E%93;Building+Secure+Digital+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h6bDducDB2YWoybTZvZjQ3Nmg3YXE1aGN0YjdwN2xlcHhzMW95ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
@@ -18,7 +18,7 @@
 
 ## 🛡️ **The Security Architect: About Me**
 
-**Welcome to my profile!** I'm **Ayush Gangwar**, a dedicated Computer Science Engineering student and a relentless pursuer of digital safety. My core focus lies at the intersection of **Cybersecurity, Ethical Hacking, and Full-Stack Development**, augmented by the power of **AI/ML**.
+**Welcome to my profile!** I'm **Ayush Gangwar**, a dedicated Computer Science Engineering student and a relentless pursuer of digital safety. My core focus lies at the intersection of **Cybersecurity, Ethical Hacking, and Full-Stack Development**, augmented by the power of **AI**.
 
 ### 💡 Core Philosophy
 
@@ -28,7 +28,6 @@
 
 * **Cybersecurity & Pen-Testing:** Specializing in web application security, network scanning, and vulnerability research.
 * **Full-Stack Development:** Delivering scalable and secure web solutions using modern frameworks (Next.js, React).
-* **Applied AI/ML:** Leveraging machine learning for threat detection, anomaly analysis, and intelligent system development.
 * **Open Source Advocacy:** Actively contributing to community tools and maintaining over 35 public repositories.
 
 ---
@@ -57,7 +56,7 @@ const developer = {
   role: "Full-Stack Developer & Cybersecurity Expert",
   passions: ["AI/ML", "Cybersecurity", "Web Development", "Open Source"],
   currentFocus: "Building intelligent, secure, and scalable applications",
-  lifePhilosophy: "Code with purpose, secure with responsibility, innovate with ethics"
+  lifePhilosophy: "Code with purpose, secure with responsibility, innovate with ethics."
 };
 ```
 <div align="center">
@@ -121,23 +120,7 @@ const developer = {
 
 </details>
 
-<details>
-<summary><strong>🤖 AI & Machine Learning</strong></summary>
 
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-</div>
-
-</details>
 
 <details>
 <summary><strong>🧑‍💻 Programming Languages</strong></summary>
@@ -146,12 +129,10 @@ const developer = {
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
+![Go](https://img.shields.io/badge/Go-5391FE?style=for-the-badge&logo=Go&logoColor=cyan)
 </div>
 
 </details>
