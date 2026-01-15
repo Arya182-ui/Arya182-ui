@@ -207,7 +207,7 @@ const developer = {
 
 ### 🏆 **GitHub Achievements**
 
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=Arya182-ui&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Arya182-ui&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=5" alt="GitHub Trophies" />
 
 </div>
 
