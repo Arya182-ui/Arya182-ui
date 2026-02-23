@@ -214,13 +214,6 @@ const developer = {
 ---
 
 ## 🎯 **Featured Projects**
-
-<div align="center">
-
-### 💼 **Project Showcase**
-
-[![Projects Showcase](https://img.shields.io/badge/🚀%20Interactive%20Portfolio-Visit%20Now-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://projectsshowcase-lyart.vercel.app/)
-
 </div>
 
 <div align="center">
